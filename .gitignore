@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/src/main/resources/Link_WGS84_Link_Info_150M.txt
+/src/main/resources/db.properties
